@@ -1,1 +1,1 @@
-# foodie-app
+# MERN Template
